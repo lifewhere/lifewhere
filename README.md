@@ -28,11 +28,6 @@ An experimental library that processes images across multiple light spectrums, r
 pip install spectral-vision
 ```
 
-### 🪐 QuantumDreamer
-
-A generative art engine that uses quantum randomness to create landscapes that could exist in alternate realities.
-![QuantumDreamer Example](https://via.placeholder.com/600x200?text=Quantum+Visualizations)
-
 ### 🌠 CosmicTracker
 
 Track celestial events and phenomena with precision timing, offering notifications when the universe aligns in mathematically significant patterns.
